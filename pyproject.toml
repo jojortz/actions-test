@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "jojo_actions_test"
-version = "0.0.0"
+version = "0.0.1"
 description = "test"
 authors = ["jojo <jojo@jojo.com>"]
 license = "Apache"
