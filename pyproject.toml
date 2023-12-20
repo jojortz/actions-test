@@ -1,0 +1,7 @@
+[tool.poetry]
+name = "jojo"
+version = "0.0.0"
+description = "test"
+authors = ["jojo <jojo@jojo.com>"]
+license = "Apache"
+readme = "README.md"
