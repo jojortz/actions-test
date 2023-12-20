@@ -1,7 +1,11 @@
 [tool.poetry]
-name = "jojo"
+name = "jojo-actions-test"
 version = "0.0.0"
 description = "test"
 authors = ["jojo <jojo@jojo.com>"]
 license = "Apache"
 readme = "README.md"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
