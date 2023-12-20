@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "jojo-actions-test"
+name = "jojo_actions_test"
 version = "0.0.0"
 description = "test"
 authors = ["jojo <jojo@jojo.com>"]
